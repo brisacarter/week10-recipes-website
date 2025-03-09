@@ -1,0 +1,34 @@
+
+{
+  "title": "Garlic-Basil Marinara Sauce",
+  "shortDescription": "A marinara sauce that works all the time, using one single pot and a (not too) slow cooking time.",
+  "description": "These classic chocolate chip cookies are crispy on the outside, soft and chewy on the inside, and loaded with chocolate chips. Perfect for dessert, snacks, or gifting!",
+  "image": "/images/cookies.jpg",
+  "prepTime": "15 minutes",
+  "cookTime": "10-12 minutes",
+  "servings": "24 cookies",
+  "ingredients": [
+    "2 1/4 cups (280g) all-purpose flour",
+    "1 teaspoon baking soda",
+    "1 teaspoon salt",
+    "1 cup (225g) unsalted butter, softened",
+    "3/4 cup (150g) granulated sugar",
+    "3/4 cup (165g) packed brown sugar",
+    "2 large eggs",
+    "2 teaspoons vanilla extract",
+    "2 cups (350g) chocolate chips",
+    "1 cup (120g) chopped nuts (optional)"
+  ],
+  "directions": [
+    "Preheat oven to 375°F (190°C). Line baking sheets with parchment paper.",
+    "In a small bowl, whisk together the flour, baking soda, and salt.",
+    "In a large bowl, beat the butter, granulated sugar, and brown sugar until creamy, about 2 minutes.",
+    "Add eggs one at a time, beating well after each addition. Stir in the vanilla extract.",
+    "Gradually stir in the flour mixture until just combined. Do not overmix.",
+    "Fold in the chocolate chips and nuts if using.",
+    "Drop rounded tablespoons of dough onto the prepared baking sheets, spacing them about 2 inches apart.",
+    "Bake for 10-12 minutes or until the edges are golden but the centers are still soft.",
+    "Allow the cookies to cool on the baking sheets for 5 minutes before transferring them to wire racks to cool completely.",
+    "Store in an airtight container at room temperature for up to 5 days."
+  ]
+}

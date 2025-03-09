@@ -1,0 +1,50 @@
+
+<%- include('partials/header') %>
+
+<div class="recipe-navigation">
+  <a href="/recipe/<%= prevId %>" class="btn">← Previous Recipe</a>
+  <a href="/recipe/<%= nextId %>" class="btn">Next Recipe →</a>
+</div>
+
+<article class="recipe">
+  <header class="recipe-header">
+    <h2><%= recipe.title %></h2>
+    <div class="recipe-image">
+      <img src="<%= recipe.image %>" alt="<%= recipe.title %>">
+    </div>
+    <p class="recipe-description"><%= recipe.description %></p>
+  </header>
+
+  <section class="recipe-details">
+    <div class="recipe-info">
+      <span><strong>Prep Time:</strong> <%= recipe.prepTime %></span>
+      <span><strong>Cook Time:</strong> <%= recipe.cookTime %></span>
+      <span><strong>Servings:</strong> <%= recipe.servings %></span>
+    </div>
+  </section>
+
+  <section class="recipe-ingredients">
+    <h3>Ingredients</h3>
+    <ul>
+      <% recipe.ingredients.forEach(ingredient => { %>
+        <li><%= ingredient %></li>
+      <% }); %>
+    </ul>
+  </section>
+
+  <section class="recipe-directions">
+    <h3>Directions</h3>
+    <ol>
+      <% recipe.directions.forEach(step => { %>
+        <li><%= step %></li>
+      <% }); %>
+    </ol>
+  </section>
+</article>
+
+<div class="recipe-navigation">
+  <a href="/recipe/<%= prevId %>" class="btn">← Previous Recipe</a>
+  <a href="/recipe/<%= nextId %>" class="btn">Next Recipe →</a>
+</div>
+
+<%- include('partials/footer') %>
