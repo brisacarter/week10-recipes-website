@@ -24,7 +24,8 @@ body {
   line-height: 1.6;
   color: var(--text-color);
   background-color: var(--accent-color-color);
-  background-image: "public/images/leaves.jpg";"
+  background-image: url("https://brisacarter.github.io/week10-recipes-website/public/images/leaves3.jpg");
+  background-repeat: repeat-x;
 }
 
 .container {
@@ -121,7 +122,7 @@ main {
 }
 
 .card {
-  background-color:var(--light-color);
+  background-color:var(--super-light-color);
   border-radius: var(--border-radius);
   overflow: hidden;
   box-shadow: var(--shadow);
@@ -154,7 +155,7 @@ main {
 }
 
 .recipe {
-  background-color: var(--accent-color);
+  background-color: var(--light-color);
   border-radius: var(--border-radius);
   padding: 30px;
   margin-bottom: 30px;
@@ -179,6 +180,7 @@ main {
 
 .recipe-description {
   font-style: italic;
+  padding: 15px;
 }
 
 .recipe-info {

@@ -2,36 +2,30 @@
 {
   "title": "The Best Split Pea Soup",
   "shortDescription": "A classic split pea soup, perfected over time. Truly, it is a failure-proof recipe.",
-  "description": "Learn how to make a restaurant-quality Margherita pizza at home. With a crispy crust, tangy tomato sauce, and fresh mozzarella, this pizza is a crowd-pleaser!",
-  "image": "/images/pizza.jpg",
-  "prepTime": "2 hours (including dough rising)",
-  "cookTime": "10-12 minutes",
-  "servings": "2 medium pizzas",
+  "description": "Learn how to make a Michelin restaurant-quality vegan split pea soup. With a hearty texture and tons of flavor, this recipe will surely please your family and guests.",
+  "image": "https://brisacarter.github.io/week10-recipes-website/public/images/split-peas.jpg",
+  "alt": "A picture of a green split peas",
+  "prepTime": "30 minutes",
+  "cookTime": "55 minutes",
+  "servings": "4 healthy bowls",
   "ingredients": [
-    "For the dough:",
-    "3 1/2 cups (500g) all-purpose flour",
-    "1 teaspoon salt",
-    "1 teaspoon instant yeast",
-    "1 1/2 cups (350ml) warm water",
-    "2 tablespoons olive oil",
-    "For the topping:",
-    "1 cup (240ml) tomato sauce",
-    "8 ounces (225g) fresh mozzarella, sliced",
-    "Fresh basil leaves",
-    "2 tablespoons olive oil",
-    "Salt and pepper to taste"
+
+     "1.5 cups diced onion",
+    "4 to 5 cloves of garlic",
+    "1.5 cups diced carrots",
+    "1.5 cups  diced potatoes",
+   "3/4 cup dry, Dried Green Split Peas",
+     "1 tsp ground black pepper",
+      "7-8 cups, Low Sodium Vegetable Broth",
+    "1 tsp dried oregano",
+      "3 leaves, dried bay leaves",
+      "1/2 teaspoon sea salt"
+
   ],
   "directions": [
-    "In a large bowl, mix flour, salt, and yeast. Add warm water and olive oil, then mix until a dough forms.",
-    "Turn the dough onto a floured surface and knead for about 5 minutes until smooth and elastic.",
-    "Place the dough in an oiled bowl, cover with plastic wrap, and let rise for about 1-2 hours, or until doubled in size.",
-    "Preheat your oven to the highest temperature (usually 500°F/260°C) with a pizza stone or baking sheet inside.",
-    "Divide the dough into two equal parts. On a floured surface, stretch or roll each piece into a round shape.",
-    "Spread tomato sauce over the dough, leaving a small border for the crust.",
-    "Add sliced mozzarella evenly on top.",
-    "Carefully transfer the pizza to the preheated pizza stone or baking sheet.",
-    "Bake for 10-12 minutes, or until the crust is golden and the cheese is bubbly.",
-    "Remove from the oven, top with fresh basil leaves, drizzle with olive oil, and season with salt and pepper.",
-    "Allow to cool slightly before slicing and serving."
+    "Start by heating the pot at medium heat, while dicing the onion and garlic. Add them to the pot, stirring now and then until the onion and garlic are sticking to the bottom and you see golden-brown bits.",
+    "Add about 1/2 cup of broth to deglaze.",
+    "Add the carrots and potatoes, stirring constantly for about 5 minutes. Add the split peas, bay leaves, oregano, black pepper, and salt. Stir in the broth and bring to a boil. Reduce the heat to medium-low, cover the pot (leaving a about 1/4 inch opening) and simmer for about 55 minutes.",
+    "Serve hot with a few splashes of lime or lemon juice. Drizzle with a little olive oil if you like."
   ]
 }
