@@ -13,7 +13,7 @@ const path = require("path");
 //Requires the fs module to use the fs.readFile function to read the file
 const fs = require("fs"); 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000; // Use environment variable for tests
 //Uses the body-parser middleware to parse the request body
 app.use(bodyParser.urlencoded({ extended: true }));
 

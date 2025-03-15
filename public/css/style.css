@@ -55,6 +55,14 @@ a:hover {
   color: var(--secondary-color);
 }
 
+.aboutLink {
+  color: var(--secondary-color);
+  font-weight: bold;
+}
+.aboutLink:hover{
+  text-decoration: underline;
+}
+
 /* Header & Navigation */
 header {
   background-color: var(--secondary-color);
