@@ -13,7 +13,7 @@
   <div class="card-container">
     <% recipes.forEach((recipe, index) => { %>
       <div class="card">
-        <img src="<%= recipe.image %>" alt="<%= recipe.title %>">
+  <a href="/recipe/<%= index + 1 %>  " > <img src="<%= recipe.image %>" alt="<%= recipe.title %>"></a>  
         <div class="card-content">
           <h3><%= recipe.title %></h3>
           <p><%= recipe.shortDescription %></p>
